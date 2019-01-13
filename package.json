@@ -1,0 +1,25 @@
+{
+  "name": "dlay-job-examples",
+  "version": "1.0.0",
+  "description": "A batch of dlay job examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlay-io/job-examples.git"
+  },
+  "keywords": [
+    "dlay",
+    "dlay.io",
+    "jobs",
+    "scheduling"
+  ],
+  "author": "Gabriel de Oliveira Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlay-io/job-examples/issues"
+  },
+  "homepage": "https://github.com/dlay-io/job-examples#readme"
+}
