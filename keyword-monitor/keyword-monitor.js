@@ -14,7 +14,7 @@ module.exports = async (ctx, done) => {
         links = [
             ...document.querySelectorAll('.g .r > a')
         ].map((entry) => {
-            return entry.getAttribute('href').substring(7, (link.length - 1));
+            return entry.getAttribute('href').substring(7, (entry.length - 1));
         });
 
     // 3. Return competitors index
